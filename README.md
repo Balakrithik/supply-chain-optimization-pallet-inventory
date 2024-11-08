@@ -41,6 +41,19 @@ These insights inform business strategies, resource allocation, and customer pri
 - **Data Summary**: Identified transaction frequency, customer demand patterns, and distribution trends.
 - **Statistical Analysis**: Provided insights into transaction skewness, variance, and central tendencies to improve inventory planning.
 - **Warehouse Optimization**: Optimized warehouse allocation by assessing transaction loads across different warehouses.
+## 📊 Dashboards
+
+Here are two sample dashboards generated during the project, showcasing key insights for stakeholders and operational managers.
+
+### Stakeholder Dashboard
+This dashboard provides high-level insights for stakeholders, highlighting key metrics and trends in pallet transactions.
+
+![Stakeholder Dashboard](./Dashboards/PowerBi_stakeholders.png)
+
+### Operational Manager Dashboard
+The operational manager dashboard focuses on day-to-day metrics, assisting in inventory management and resource allocation.
+
+![Operational Manager Dashboard](./Dashboards/PowerBi_operational_manager.png)
 
 ## 📂 Repository Structure
 
