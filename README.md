@@ -4,9 +4,6 @@ This repository contains the data analysis project aimed at optimizing pallet in
 
 ## 📝 Project Overview
 
-**Project Duration**: September 2023 - October 2023  
-**Associated with**: INNODATATICS | Innovation | Data | Analytics
-
 ### Business Problem
 
 The company faced challenges in determining the optimal number of pallets to store for shipping to various customers. The project’s goal was to analyze pallet transaction data to minimize inventory volatility and improve resource allocation across warehouses.
